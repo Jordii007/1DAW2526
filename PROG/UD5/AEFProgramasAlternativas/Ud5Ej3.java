@@ -1,5 +1,5 @@
 public class Ud5Ej3 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         char c;
         //Algoritmo
