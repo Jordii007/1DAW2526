@@ -1,5 +1,5 @@
 public class Ud4Ej5 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno
         int millas, yardas;
         float km, m;
