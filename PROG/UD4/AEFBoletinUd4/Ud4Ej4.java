@@ -1,5 +1,5 @@
 public class Ud4Ej4 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         float eur, pts, kwd;
         //Algoritmo:
