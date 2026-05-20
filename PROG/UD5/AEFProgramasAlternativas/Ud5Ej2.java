@@ -1,5 +1,5 @@
 public class Ud5Ej2 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         int n;
         //Algoritmo
