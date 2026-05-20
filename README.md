@@ -1,4 +1,4 @@
-# 1ºDAW - Programación y Bases de Datos
+# 1ºDAW 
 
 Este repositorio contiene una recopilación estructurada de materiales, resúmenes teóricos y ejercicios prácticos correspondientes al primer año del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**.
 
