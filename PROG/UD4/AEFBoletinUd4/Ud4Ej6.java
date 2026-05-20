@@ -1,5 +1,5 @@
 public class Ud4Ej6 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         int temp;
         float cel;
