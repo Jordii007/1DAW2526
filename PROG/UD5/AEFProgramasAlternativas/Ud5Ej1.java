@@ -1,5 +1,5 @@
 public class Ud5Ej1 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         int n1,n2, res;
         float div;
