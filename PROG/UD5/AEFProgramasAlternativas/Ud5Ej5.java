@@ -1,5 +1,5 @@
 public class Ud5Ej5 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
         //Entorno:
         float imp;
         final int DESC = 25;
