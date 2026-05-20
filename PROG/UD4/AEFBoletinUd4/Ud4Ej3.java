@@ -1,5 +1,6 @@
 public class Ud4Ej3 {
-    public static void main(String[] args) throws Exception {
+    public static void main(String[] args){
+        
         //Entorno:
         int n1, n2;
         //Algoritmo:
