@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
+</div>
+
 # 1ºDAW 
 
 Este repositorio contiene una recopilación estructurada de materiales, resúmenes teóricos y ejercicios prácticos correspondientes al primer año del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**.
